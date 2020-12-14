@@ -246,4 +246,8 @@ button.btn.btn-warning {
     .v-tab .nav-link.active:before{
         display: none;
     }
+    button.btn.btn-warning {
+        width: 240px;
+        margin-top: 10px;
+    }
 }
