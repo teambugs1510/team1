@@ -259,5 +259,9 @@ button.btn.btn-warning {
      .social-navbar-icon{
        display: none;
      }
+     .navbar-brand{
+     width: 200px;
+     height: 60px;
+}
      }
      
