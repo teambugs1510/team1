@@ -250,4 +250,10 @@ button.btn.btn-warning {
         width: 240px;
         margin-top: 10px;
     }
-}
+     .submit-btn{
+       width: 220px!important;
+     }
+     .reset-btn{
+       width: 220px!important;
+     }
+     }
