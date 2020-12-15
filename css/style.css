@@ -261,7 +261,7 @@ button.btn.btn-warning {
      }
      .navbar-brand{
      width: 200px;
-     display: none;
+     display: none!important;
      height: 60px;
 }
      }
