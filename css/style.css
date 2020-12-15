@@ -256,4 +256,8 @@ button.btn.btn-warning {
      .reset-btn{
        width: 220px!important;
      }
+     .social-navbar-icon{
+       display: none;
      }
+     }
+     
